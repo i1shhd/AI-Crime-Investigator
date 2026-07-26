@@ -83,3 +83,7 @@ python app.py
 ## Disclaimer
 
 This project was developed for educational and research purposes to demonstrate the application of multimodal artificial intelligence in preliminary crime investigation. The generated reports are intended to assist analysis and should not be considered legal, forensic, or judicial conclusions.
+
+## Developed By
+
+**Shahad Alshaibani**
