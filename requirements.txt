@@ -1,1 +1,7 @@
-
+transformers>=4.56.2
+torch
+accelerate
+gradio
+soundfile
+sentencepiece
+spaces
